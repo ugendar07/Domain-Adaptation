@@ -1,4 +1,4 @@
-# Domain-Adversarial Training of Neural Networks (DANN) Implementation
+# Domain-Adversarial Training of Neural Networks (DANN)
 
 ## Overview
 
@@ -39,7 +39,7 @@ This project implements Domain-Adversarial Training of Neural Networks (DANN) by
 
   - MNIST Dataset: [MNIST](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#mnist)
   - USPS Dataset: [USPS](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html#mnist)
-OfficeHome:
+- OfficeHome:
 
   - OfficeHome Dataset: [OfficeHome](https://www.hemanthdv.org/officeHomeDataset.html)
  
